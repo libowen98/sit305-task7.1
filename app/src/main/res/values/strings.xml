@@ -1,0 +1,15 @@
+<resources>
+    <string name="app_name">Notes app</string>
+    <string name="create">CREATE A NEW NOTE</string>
+    <string name="show">SHOW ALL NOTES</string>
+    <string name="picture" />
+    <string name="input" />
+    <string name="note_content" />
+    <string name="saveButton">SAVE</string>
+    <string name="noteContent">Enter your note here ...</string>
+    <string name="save">SAVE</string>
+    <string name="noteEditor" />
+    <string name="update">UPTATE</string>
+    <string name="Update">UPDATE</string>
+    <string name="Delete">DELETE</string>
+</resources>
